@@ -1,0 +1,37 @@
+---
+title: "Emily Bishop"
+image: "emily_headshot2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/emily-bishop-28633473/"
+  - label: Twitter
+    url: "https://twitter.com/EBish_fish"
+  - label: GitHub
+    url: "https://github.com/e-bish"
+  - label: Email
+    url: "mailto:ebish@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Emily graduated from the University of Rhode Island in 2015 with a B.S. in Marine Biology and a minor in Chemistry. As an undergrad she studied the ecology of marine macroalgae, and spent a summer in Washington to develop a protocol for volunteers to survey kelp from kayaks. Following graduation, Emily returned to Washington and studied marine birds on Whidbey Island before settling on the Olympic Peninsula. After a year with the Washington Conservation Corps as an Education and Outreach Assistant at a local Regional Fisheries Enhancement Group, Emily then spent several years working as an independent contractor with local and state government agencies under her business Westward Ecology. The Port Gamble S’Klallam Tribe was Emily’s primary client, and as a biologist in their Habitat Research and Monitoring Program she was a core member of the Hood Canal Bridge Assessment Team organized by Long Live the Kings to examine the impact of a floating bridge on juvenile salmon migration in the Hood Canal. At SAFS, Emily continues to explore the impacts of human modifications on marine habitats and fish ecology.  
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Aquatic and Fishery Sciences | March 2021-present
+
+**University of Rhode Island** | Kingston, RI
+
+B.S. in Marine Biology | September 2011 - May 2015
+
+## Experience
+
+**Westward Ecology** | Owner/Marine Biologist | November 2016 - Present
+
+**Field Biologist** | Point No Point Treaty Council | September 2016 - March 2017
+
+**Education and Outreach Assistant** | North Olympic Salmon Coalition | October 2015 - September 2016
