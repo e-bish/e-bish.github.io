@@ -10,7 +10,7 @@ links:
     url: "https://github.com/e-bish"
   - label: Email
     url: "mailto:ebish@uw.edu"
-  - label: Business Website / Westward Ecology
+  - label: Westward Ecology
     url: "https://westwardecology.com"
 output:
   postcards::trestles
